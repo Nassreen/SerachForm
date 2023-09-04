@@ -1,0 +1,3 @@
+[submodule "backend/Java-Data-Explorer"]
+	path = backend/Java-Data-Explorer
+	url = https://github.com/Nassreen/Java-Data-Explorer.git
