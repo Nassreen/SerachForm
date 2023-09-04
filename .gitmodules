@@ -1,3 +1,6 @@
 [submodule "backend/Java-Data-Explorer"]
 	path = backend/Java-Data-Explorer
 	url = https://github.com/Nassreen/Java-Data-Explorer.git
+[submodule "frontend/Typescript-React-DataExplorer"]
+	path = frontend/Typescript-React-DataExplorer
+	url = https://github.com/Nassreen/Typescript-React-DataExplorer.git
